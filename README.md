@@ -4,6 +4,8 @@
 ![캡스톤포스xjjj (3)](https://user-images.githubusercontent.com/93649914/206694303-2c104433-4bfc-454d-ba81-7884197cded6.png)
 
 
+## :trophy: 캡스톤디자인경진대회 창업 아이디어 부문 동상 수상 :trophy:
+
 ## 프로젝트 소개
 드론을 이용한 실시간 영상 인식과 수상 구조
 
@@ -36,8 +38,6 @@ FIGMA 링크 : https://www.figma.com/file/S0zZ8bRSJRIrufWTuJL4po/Untitled?node-i
 
 UI 영상 : https://github.com/Ahpuh-Ahpuh/Seesea-Start/blob/main/UI%20%EC%98%81%EC%83%81.mp4
 
-#### 6) 시연 영상
-링크 : 
-
-#### 7) 제품설명서
+#### 6) 제품설명서
 <img width="1000" alt="제품설명서001" src="https://user-images.githubusercontent.com/112617546/206697649-2abe3a4f-c60b-416f-9a82-efe946bf6d39.png">
+
