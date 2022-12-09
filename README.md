@@ -31,3 +31,7 @@ Depth Estimation(깊이 추정)을 통해 거리를 계산
 
 깃허브 : 
 
+#### 5) 프로토타입
+FIGMA 링크 : https://www.figma.com/file/S0zZ8bRSJRIrufWTuJL4po/Untitled?node-id=0%3A1&t=DBGMDXkFiHG7ne17-1
+
+UI 영상 : 
