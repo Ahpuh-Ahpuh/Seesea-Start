@@ -35,3 +35,6 @@ Depth Estimation(깊이 추정)을 통해 거리를 계산
 FIGMA 링크 : https://www.figma.com/file/S0zZ8bRSJRIrufWTuJL4po/Untitled?node-id=0%3A1&t=DBGMDXkFiHG7ne17-1
 
 UI 영상 : 
+
+제품설명서
+[제품설명서.pdf](https://github.com/Ahpuh-Ahpuh/Seesea-Start/files/10194413/default.pdf)
