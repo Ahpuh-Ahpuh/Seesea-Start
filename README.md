@@ -36,6 +36,8 @@ FIGMA 링크 : https://www.figma.com/file/S0zZ8bRSJRIrufWTuJL4po/Untitled?node-i
 
 UI 영상 : https://github.com/Ahpuh-Ahpuh/Seesea-Start/blob/main/UI%20%EC%98%81%EC%83%81.mp4
 
-#### 6) 제품설명서
-<img width="1000" alt="제품설명서001" src="https://user-images.githubusercontent.com/112617546/206697649-2abe3a4f-c60b-416f-9a82-efe946bf6d39.png">
+#### 6) 시연 영상
+링크 : 
 
+#### 7) 제품설명서
+<img width="1000" alt="제품설명서001" src="https://user-images.githubusercontent.com/112617546/206697649-2abe3a4f-c60b-416f-9a82-efe946bf6d39.png">
