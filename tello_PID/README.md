@@ -30,6 +30,10 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 (numpy, opencv-python가 함께 설치 됨)
 
 
+## 기본 실행 함수
+connect
+takeoff
+
 
 ## 이중 PI 제어 구조도
 ![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
