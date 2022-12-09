@@ -24,9 +24,9 @@
 깃허브 : 
 
 #### 3) Depth Estimation을 이용하여 드론과 위험상황에 처한 사람 거리 분석
-Depth Estimation(깊이 추정)을 통해 거리를 계산
+Depth Estimation(깊이 추정) 방식 중에서도 단안카메라를 이용한 Mono Depth Estimation을 통해 거리를 계산
 
-깃허브 : 
+깃허브 : https://github.com/Ahpuh-Ahpuh/Seesea-Start/tree/main/MonoDepth
 
 #### 4) 이중 PI 제어로 드론 위치 고정
 바람이 심한 바닷가 특성상 드론이 제자리를 고정할 수 있도록 이중 PI제어를 이용
