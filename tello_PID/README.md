@@ -1,11 +1,12 @@
 ## ✏️ 개발환경  
 ![image](https://user-images.githubusercontent.com/79096808/206724639-6901c502-36c3-4588-bddb-0b4b45670430.png)
 ![image](https://user-images.githubusercontent.com/79096808/206724701-dce3e7e9-e482-4480-93a7-656e9e804032.png)
-###파이참과 파이썬을 이용하여 드론 제어 코드 작성
+
+### 파이참과 파이썬을 이용하여 드론 제어 코드 작성
 
 
 
-###파이참 설치 링크
+### 파이참 설치 링크
 https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 
@@ -30,4 +31,6 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 
 
+## 이중 PI 제어 구조도
+![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
 
