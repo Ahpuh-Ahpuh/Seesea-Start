@@ -1,10 +1,10 @@
 
-# 실행 방법
+# :sparkles: 실행 방법
 ```
 !git clone https://github.com/ialhashim/DenseDepth.git
 ```
 
-## 사진 촬영 및 저장
+## :dizzy: 사진 촬영 및 저장
 ```
 from IPython.display import display, Javascript
 from google.colab.output import eval_js
@@ -69,18 +69,18 @@ except Exception as err:
   파일 형식은 640X480 사이즈의 png 파일만 가능합니다   
      
   
-  ## 학습된 모델 불러오기
+  ## :dizzy: 학습된 모델 불러오기
   ```
   !wget https://s3-eu-west-1.amazonaws.com/densedepth/nyu.h5 -O ./DenseDepth/nyu.h5
   ```
   nyu로 학습된 모델을 불러옵니다   
      
-  ## 깊이 추정 적용
+  ## :dizzy: 깊이 추정 적용
   ```
   !cd DenseDepth; python test.py
   ```
      
-  ## 적용한 결과 확인
+  ## :dizzy: 적용한 결과 확인
   ```
   from matplotlib import pyplot as plt
 from skimage import io
