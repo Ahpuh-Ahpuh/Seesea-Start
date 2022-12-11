@@ -16,6 +16,7 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 ### 텔로 모듈 import (DJI TELLO)
 
 1) 파일 새 프로젝트 생성
+
 ![image](https://user-images.githubusercontent.com/79096808/206884833-95d0c2b5-b192-405f-a7ae-10c626db9277.png)
 
 2) 프로젝트 설정 -> 파이썬 인터프리터 -> + 버튼 클릭
