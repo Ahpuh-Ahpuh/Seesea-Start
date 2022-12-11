@@ -21,7 +21,7 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 
 
-## 텔로 모듈 import
+### 텔로 모듈 import
 
 1) 파일 -> 프로젝트 설정
 2) 파이썬 인터프리터 -> 생성한 폴더
@@ -30,7 +30,7 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 (numpy, opencv-python가 함께 설치 됨)
 
 
-##PID 제어 원리
+## PID 제어 원리
 * P 제어 (비례값 이용)
 
 ![image](https://user-images.githubusercontent.com/79096808/206883844-54cb63d7-3a2c-43e0-967b-f593bd75387f.png)
