@@ -39,9 +39,10 @@ b.start()
 
 
 
-#위치 제어를 위한 PID control
-Kp = 2
-Ki = 0.1
+#위치 제어를 위한 PID control ->
+Kp = 0.6
+Ki = 0.5
+Kd = 0.125
 tiempo = []      #초기화
 height = []
 error = []
