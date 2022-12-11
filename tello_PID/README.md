@@ -31,14 +31,15 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 
 ##PID 제어 원리
+* P 제어 ![image](https://user-images.githubusercontent.com/79096808/206883844-54cb63d7-3a2c-43e0-967b-f593bd75387f.png)
 
+* I 제어![image](https://user-images.githubusercontent.com/79096808/206883851-b9cd4e53-ca6c-4240-9954-08dfbbce8306.png)
 
-$$P=K_{p}*Error$$
-$$I=K_[i]*\int_{0}*{t}Errordr$$
-$$D=K_{d]*\frac{de}{dt}$$
+* D 제어![image](https://user-images.githubusercontent.com/79096808/206883854-49740411-311e-42f6-baf3-a60091a78398.png)
 
-
-$$u(t)=K_{p}*Error(t)+K_{i}*\int_{0}^{t}Errordt+K_{d}*\frac{de}{dt}$$
+=> PID 제어
+![image](https://user-images.githubusercontent.com/79096808/206883862-98de668d-d610-4c93-af12-87bba71a0747.png)
+ 
 
 ## 이중 PI 제어 구조도
 ![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
