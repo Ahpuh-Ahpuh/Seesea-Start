@@ -31,13 +31,20 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 
 ##PID 제어 원리
-* P 제어 ![image](https://user-images.githubusercontent.com/79096808/206883844-54cb63d7-3a2c-43e0-967b-f593bd75387f.png)
+* P 제어 (비례값 이용)
 
-* I 제어![image](https://user-images.githubusercontent.com/79096808/206883851-b9cd4e53-ca6c-4240-9954-08dfbbce8306.png)
+![image](https://user-images.githubusercontent.com/79096808/206883844-54cb63d7-3a2c-43e0-967b-f593bd75387f.png)
 
-* D 제어![image](https://user-images.githubusercontent.com/79096808/206883854-49740411-311e-42f6-baf3-a60091a78398.png)
+* I 제어 (적분값 이용)
+
+![image](https://user-images.githubusercontent.com/79096808/206883851-b9cd4e53-ca6c-4240-9954-08dfbbce8306.png)
+
+* D 제어 (미분값 이용)
+
+![image](https://user-images.githubusercontent.com/79096808/206883854-49740411-311e-42f6-baf3-a60091a78398.png)
 
 => PID 제어
+
 ![image](https://user-images.githubusercontent.com/79096808/206883862-98de668d-d610-4c93-af12-87bba71a0747.png)
  
 
