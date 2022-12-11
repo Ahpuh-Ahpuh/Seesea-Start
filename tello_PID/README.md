@@ -13,21 +13,26 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 ## 🌙 실행 방법
 
+### 텔로 모듈 import (DJI TELLO)
+
+1) 파일 새 프로젝트 생성
+![image](https://user-images.githubusercontent.com/79096808/206884833-95d0c2b5-b192-405f-a7ae-10c626db9277.png)
+
+2) 프로젝트 설정 -> 파이썬 인터프리터 -> + 버튼 클릭
+![image](https://user-images.githubusercontent.com/79096808/206884924-c94c667b-c910-4f73-8c0d-08f290e1ff83.png)
+
+3) djitellopy 검색 후, 해당 모듈 install Package 버튼으로 설치
+(numpy, opencv-python가 함께 설치 됨)
+설치 결과
+![image](https://user-images.githubusercontent.com/79096808/206884904-3202889d-4b12-45e4-9b9d-0d1bbe2f7a67.png)
+
+
+
 ### 텔로 노트북 연결
 
 1) 드론 전원 작동
 2) 노트북 와이파이 -> 텔로 연결
 3) 코드 실행
-
-
-
-### 텔로 모듈 import
-
-1) 파일 -> 프로젝트 설정
-2) 파이썬 인터프리터 -> 생성한 폴더
-3) 아래의 + 버튼 클릭
-4) djitellopy 검색 후, 해당 모듈 install Package 버튼으로 설치
-(numpy, opencv-python가 함께 설치 됨)
 
 
 ## ✨PID 제어 원리
