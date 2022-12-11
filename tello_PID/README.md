@@ -32,7 +32,8 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 ##PID 제어 원리
 
-$$u(t)=K_{p]*Error(t) +K K_{i}*\int_{0}^{t}Error dt + K_{d}*\frac{de}{dt}$$
+$$u(t)=K_{p}*Error(t) +K K_{i}*\int_{0}^{t}Error dt + K_{d}*\frac{de}{dt}$$
+
 
 ## 이중 PI 제어 구조도
 ![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
