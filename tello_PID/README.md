@@ -30,7 +30,7 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 (numpy, opencv-python가 함께 설치 됨)
 
 
-## PID 제어 원리
+## ✨PID 제어 원리
 * P 제어 (비례값 이용)
 
 ![image](https://user-images.githubusercontent.com/79096808/206883844-54cb63d7-3a2c-43e0-967b-f593bd75387f.png)
@@ -48,6 +48,20 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 ![image](https://user-images.githubusercontent.com/79096808/206883862-98de668d-d610-4c93-af12-87bba71a0747.png)
  
 
-## 이중 PI 제어 구조도
-![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
+## 🛠이중 PI 제어 
 
+기존의 PID 제어에서 D 제어를 제외, PI를 이중으로 적용
+
+### 원리
+* 오차
+1) 오차1 : 목표위치와 실제위치 오차
+2) 오차2 : 오차1에 P를 적용한 값(목표각속도)과 실제각속도 오차
+
+* 적용 과정
+1. 오차1에 P 제어를 적용
+2. 1로 만들어진 오차2에 P,I 제어를 적용
+3. 2로 만들어진 값에 다시 I 제어 적용
+4. 이중 피드백 구조이므로 목표 위치에 도달할 때까지 반복
+
+### 구조도
+![image](https://user-images.githubusercontent.com/79096808/206730347-9c158e4d-4cf8-402c-af59-23d84e5c943a.png)
