@@ -43,7 +43,7 @@ https://www.jetbrains.com/ko-kr/pycharm/download/#section=mac
 
 ![image](https://user-images.githubusercontent.com/79096808/206883854-49740411-311e-42f6-baf3-a60091a78398.png)
 
-=> PID 제어
+#### PID 제어
 
 ![image](https://user-images.githubusercontent.com/79096808/206883862-98de668d-d610-4c93-af12-87bba71a0747.png)
  
